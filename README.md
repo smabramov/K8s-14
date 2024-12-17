@@ -62,11 +62,11 @@ update                   Active   3m40s
 ```
 Подготовил сразу три deployment с разными версиями:
 
-[deployment1.19.yaml]()
+[deployment1.19.yaml](https://github.com/smabramov/K8s-14/blob/b3867811fd4ea2681efac9d0271d7e78be00ed3c/code/deployment1.19.yaml)
 
-[deployment1.20.yaml]()
+[deployment1.20.yaml](https://github.com/smabramov/K8s-14/blob/b3867811fd4ea2681efac9d0271d7e78be00ed3c/code/deployment1.20.yaml)
 
-[deployment1.28.yaml]()
+[deployment1.28.yaml](https://github.com/smabramov/K8s-14/blob/b3867811fd4ea2681efac9d0271d7e78be00ed3c/code/deployment1.28.yaml)
 
 Запускаем 1.19 и проверяем версию:
 
